@@ -211,12 +211,12 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(https://scontent.fccj3-1.fna.fbcdn.net/v/t39.30808-6/284867580_3086068358276613_5457567259460663899_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=51x7mEE0YK8AX9uCHzQ&_nc_ht=scontent.fccj3-1.fna&oh=00_AT8TIXVq9vFnb8F5EBhT0uMg-5K8DWqticna_T39ewAZBQ&oe=62A462CC) no-repeat center;
+	background:url(../images/portfolio5.jpg)  no-repeat center;
 	background-size: cover;
 	position: relative;
 }
 
-.bnr-txt-w3pvt {
+.bnr-txt-w3pvt  {
     margin: 12em 0 9em;
 }
 .banner-w3pvt:before {
